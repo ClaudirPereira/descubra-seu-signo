@@ -1,0 +1,75 @@
+?xml version="1.0"
+    <signos>
+        <signo>
+            <dataInicio>21/03</datainicio>
+            <dataFim?>20/04</dataFim>
+            <signoNome>Áries</signoNome>
+            <descricao> Escrever aqui a descrição </descricao>
+    
+         </signo>
+        <signo>
+            <dataInicio>21/04</datainicio>
+            <dataFim?>20/05</dataFim>
+            <signoNome>Touro</signoNome>
+            <descricao> Escrever aqui a descrição </descricao>
+        </signo>
+        <signo>
+            <dataInicio>21/05</datainicio>
+            <dataFim?>20/06</dataFim>
+            <signoNome>Gêmeos</signoNome>
+            <descricao> Escrever aqui a descrição </descricao>
+        </signo>
+         <signo>
+            <dataInicio>21/06</datainicio>
+            <dataFim?>22/07</dataFim>
+            <signoNome>Câncer</signoNome>
+            <descricao> Escrever aqui a descrição </descricao>
+            </signo>
+        <signo>
+            <dataInicio>23/07</datainicio>
+            <dataFim?>22/08</dataFim>
+            <signoNome>Leão</signoNome>
+            <descricao> Escrever aqui a descrição </descricao>
+        </signo>
+        <signo>
+            <dataInicio>23/08</datainicio>
+            <dataFim?>22/09</dataFim>
+            <signoNome>Virgem</signoNome>
+            <descricao> Escrever aqui a descrição </descricao>
+        </signo>
+        <signo>
+            <dataInicio>23/09</datainicio>
+            <dataFim?>22/10</dataFim>
+            <signoNome>Libra</signoNome>
+            <descricao> Escrever aqui a descrição </descricao>
+            </signo>
+        <signo>
+            <dataInicio>32/10</datainicio>
+            <dataFim?>21/11</dataFim>
+            <signoNome>Escorpião</signoNome>
+            <descricao> Escrever aqui a descrição </descricao>
+        </signo>
+        <signo>
+            <dataInicio>22/11</datainicio>
+            <dataFim?>21/12</dataFim>
+            <signoNome>Sagitário</signoNome>
+            <descricao> Escrever aqui a descrição </descricao>
+        </signo>
+         <signo>
+            <dataInicio>22/12</datainicio>
+            <dataFim?>19/01</dataFim>
+            <signoNome>Capricórnio</signoNome>
+            <descricao> Escrever aqui a descrição </descricao>
+             </signo>
+        <signo>
+            <dataInicio>20/01</datainicio>
+            <dataFim?>18/02</dataFim>
+            <signoNome>Aquário</signoNome>
+            <descricao> Escrever aqui a descrição </descricao>
+        </signo>
+        <signo>
+            <dataInicio>19-02</datainicio>
+            <dataFim?>20/03</dataFim>
+            <signoNome>Pexess</signoNome>
+            <descricao> Escrever aqui a descrição </descricao>
+        </signo>
